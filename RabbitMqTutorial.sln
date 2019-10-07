@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmitLog", "EmitLog\EmitLog.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReceiveLog", "ReceiveLog\ReceiveLog.csproj", "{F7FEE681-B41F-4B90-8036-88775ADD2153}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmitLogDirect", "EmitLogDirect\EmitLogDirect.csproj", "{35D7E78F-E52B-423E-9B0B-29C4C12B8ADD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReceiveLogDirect", "ReceiveLogDirect\ReceiveLogDirect.csproj", "{CADE64F7-2A93-4628-8318-53FAEBDCEE4E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{F7FEE681-B41F-4B90-8036-88775ADD2153}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7FEE681-B41F-4B90-8036-88775ADD2153}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F7FEE681-B41F-4B90-8036-88775ADD2153}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35D7E78F-E52B-423E-9B0B-29C4C12B8ADD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35D7E78F-E52B-423E-9B0B-29C4C12B8ADD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35D7E78F-E52B-423E-9B0B-29C4C12B8ADD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35D7E78F-E52B-423E-9B0B-29C4C12B8ADD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CADE64F7-2A93-4628-8318-53FAEBDCEE4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CADE64F7-2A93-4628-8318-53FAEBDCEE4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CADE64F7-2A93-4628-8318-53FAEBDCEE4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CADE64F7-2A93-4628-8318-53FAEBDCEE4E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
